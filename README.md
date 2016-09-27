@@ -25,7 +25,7 @@ Project structure should look like this:
 #### 1. Install
 
 ``` bash
-$ npm install react-nativ-configs
+$ npm install react-native-configs
 ```
 
 #### 2. Add the json files to the `config` directory in the root of your project.
