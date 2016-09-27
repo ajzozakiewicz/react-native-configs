@@ -1,5 +1,5 @@
-import DEBUG from '/config/debug.json';
-import RELEASE from '/config/release.json';
+import DEBUG from './../../config/debug.json';
+import RELEASE from './../../config/release.json';
 
 const config = () => {
     // __DEV__ - reserved global var for react-native.
