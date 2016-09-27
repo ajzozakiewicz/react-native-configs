@@ -1,0 +1,26 @@
+{
+  "name": "react-native-config",
+  "version": "1.0.0",
+  "description": "A module used for setting environment variables based on development or release build for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajzozakiewicz/react-native-config.git"
+  },
+  "author": "Northwestern Mutual",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajzozakiewicz/react-native-config/issues"
+  },
+  "homepage": "https://github.com/ajzozakiewicz/react-native-config/issues#README",
+  "devDependencies": {
+  },
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "react-native": "^0.34.0"
+  }
+}
