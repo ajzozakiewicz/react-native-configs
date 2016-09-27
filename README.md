@@ -1,4 +1,4 @@
-# react-native-config
+# react-native-configs
 
 A module similar to npm-config for React Native.
 
