@@ -12,6 +12,7 @@
   },
   "author": "Aaron Zozakiewicz",
   "license": "MIT",
+  "keywords": ["react-native-config", "config", "env", "react native", "environment", "react", "native"],
   "bugs": {
     "url": "https://github.com/ajzozakiewicz/react-native-configs/issues"
   },

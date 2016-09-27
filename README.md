@@ -20,6 +20,17 @@ Project structure should look like this:
         -- release.json
 ```
 
+## How to install
+
+#### 1. Install
+
+``` bash
+$ npm install react-nativ-configs
+```
+
+#### 2. Add the json files to the `config` directory in the root of your project.
+
+
 ## Why build this module?
 
 When I starting working with React Native, I was wanting a module that I could easily control API urls based on environment.  
