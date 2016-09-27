@@ -21,6 +21,6 @@
   "dependencies": {
   },
   "peerDependencies": {
-    "react-native": "^0.34.0"
+    "react-native": "^0.33.0"
   }
 }
